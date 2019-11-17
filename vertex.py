@@ -5,3 +5,4 @@ class Vertex:
 		self.color = None
 		self.d = None
 		self.name = name
+		self.f = None
